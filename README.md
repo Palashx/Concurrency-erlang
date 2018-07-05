@@ -1,9 +1,7 @@
 # Concurrency-erlang
 
 This was the final project for the course COMP6411 Comparative study of programming language.
-
 Main task of the project was to create a dynamic number of processes, and to pass messages between these processes.
-
 We were given a text file which has a list of people, and where each person communicates with other people. 
 
 Here the master process reads data from a text file. And it creates other processes. One process is generated for a each person.  
